@@ -15,4 +15,5 @@ var friendsArray = [{
     ]
 }];
 
+// not sure if i need this
 module.exports = friendsArray;
